@@ -41,16 +41,16 @@ cd JarvisAI
 ```
 ---
 ### 2️⃣ Install Dependencies
-```bash
 Copy code
+```bash
 pip install -r requirements.txt
 ```
 ### 3️⃣ Add Your API Keys 🔑
 Open config.py and paste your OpenAI API Key.
 
 ### 4️⃣ Run Jarvis AI
-```bash
 Copy code
+```bash
 python jarvis.py
 ```
 
