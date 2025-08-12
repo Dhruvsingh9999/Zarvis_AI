@@ -62,7 +62,3 @@ python jarvis.py
 📧 Email reading & sending
 
 🏠 Smart home device control
-
-### 🏆 Credits
-Developed with ❤️ by [Your Name]
-Powered by Python & OpenAI GPT 🚀
